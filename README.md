@@ -2,7 +2,7 @@
 
 ### Project Overview
 * **Institution:** IDEAS Foundation (Summer Internship Program 2026)
-* **Author:** Samyabrata Roy (Associate Software Developer)
+* **Author: SAMIT MONDAL
 
 ---
 
